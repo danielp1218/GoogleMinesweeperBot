@@ -3,7 +3,11 @@ Bot to beat google minesweeper!
 
 Currently only works on medium difficulty with 1980x1080 screen.
 
-Demo: https://www.youtube.com/watch?v=EVB4I2YuCAI
+Demo: 
+
+https://github.com/user-attachments/assets/12ca0e3a-e5f7-41b5-a485-71c7f0404d1f
+
+
 
 ## How to use
 1. Open google minesweeper
